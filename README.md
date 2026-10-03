@@ -7,7 +7,7 @@ Cybersecurity • Systems • Networking • Development
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Virtualization+and+Infrastructure;Systems+and+Networking+Basics;Learning+Go+and+Java" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Systems+and+Networking;Web+Development;React+%26+TypeScript;APIs+and+Backend;Virtualization+and+Infrastructure" />
 </p>
 
 ---
@@ -21,21 +21,22 @@ Name: Lucas
 Country: France
 Education: Vocational Diploma in Digital Systems → B2 Cybersecurity
 
-Field: IT (Systems, Networking & Cybersecurity)
+Field: IT (Systems, Networking, Cybersecurity & Development)
 
 Goal:
 - Specialize in cybersecurity
 - Improve my development skills
+- Build web applications and APIs
 - Understand systems and networks
 - Gain autonomy on technical projects
 ```
 
 ---
 
-# 💻 Languages
+# 💻 Languages & Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,go,bash" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,java,rust,bash" />
 </p>
 
 ---
@@ -62,61 +63,105 @@ Goal:
 
 ---
 
-# 🌐 Networking & Cybersecurity Basics
+# 🌐 Networking & Cybersecurity
 
 ```text
 - TCP/IP fundamentals
 - VLAN and routing concepts
 - Network analysis (Wireshark)
-- Virtual environments (VMs)
-- Basic system security
+- Virtual environments
+- System administration basics
+- Basic network security
+- Web security fundamentals
+- Authentication and authorization concepts
+- API security fundamentals
 ```
 
 ---
 
 # 🚧 Projects & Learning
 
-## 🧰 Cybersecurity Tools (learning phase)
-- Simple scripts in Go / Java
-- Local network analysis
-- File and system data handling
-- Ports and services basics
+## 🧰 Cybersecurity Tools
 
-🎯 Goal: improve my development skills and understand cybersecurity tools.
+* Security-oriented scripts
+* Local network analysis
+* File and system data handling
+* Ports and services
+* System monitoring
+* Cybersecurity labs
+
+🎯 Goal: build practical cybersecurity tools and understand how systems work.
 
 ---
 
-## 💻 Virtual Environments (VMs)
-- Windows / Linux installation
-- Local network testing
-- System configuration
-- IT environment simulation
+## 🌐 Web Development & APIs
+
+* React applications
+* TypeScript projects
+* REST API integration
+* HTTP requests
+* JSON data handling
+* Frontend / backend communication
+* Authentication concepts
+
+🎯 Goal: build complete applications and understand communication between frontend, backend and APIs.
+
+---
+
+## 💻 Virtual Environments
+
+* Windows / Linux installation
+* Local network testing
+* System configuration
+* Virtual machines
+* Proxmox environments
+* IT infrastructure simulation
 
 🎯 Goal: understand real-world IT infrastructures.
 
 ---
 
 ## 🧪 CTF & Cybersecurity
-- Beginner CTFs (web, system, logic)
-- Simple vulnerability analysis in labs
-- Challenge solving practice
 
-🎯 Goal: improve cybersecurity and problem-solving skills.
+* Beginner CTFs
+* Web security challenges
+* System challenges
+* Logic challenges
+* Vulnerability analysis in labs
+
+🎯 Goal: improve cybersecurity knowledge and problem-solving skills.
 
 ---
 
 ## 🔐 Vulnerability Study
-- Basic web vulnerabilities (XSS, SQLi in lab)
-- Misconfigurations in systems
-- Authentication weaknesses
 
-🎯 Goal: understand vulnerabilities to better fix them.
+* Basic web vulnerabilities
+* XSS
+* SQL injection in labs
+* Misconfigurations
+* Authentication weaknesses
+* API security basics
+
+🎯 Goal: understand vulnerabilities in order to build and secure applications.
 
 ---
 
 # 🏗️ Infrastructure
 
 ```yaml
+development:
+  - React
+  - TypeScript
+  - JavaScript
+  - REST APIs
+  - Node.js
+
+languages:
+  - Python
+  - Java
+  - Rust
+  - Bash
+
 virtualization:
   - Proxmox
   - VirtualBox
@@ -125,20 +170,37 @@ virtualization:
 systems:
   - Windows
   - Linux
+  - Ubuntu
+  - Debian
 
-projects:
-  - Virtual machines for testing
-  - Cybersecurity labs
-  - Learning environments
+networking:
+  - TCP/IP
+  - VLAN
+  - Routing
+  - Wireshark
+
+security:
+  - Web security
+  - Network security
+  - CTF
+  - Vulnerability analysis
+
+tools:
+  - Git
+  - GitHub
+  - VS Code
+  - Docker
 ```
 
 ---
 
 # 🎯 Goals
 
-- 🔐 Improve in cybersecurity (CTF + projects)
-- 💻 Improve development skills
-- 🌐 Understand networking and infrastructure
-- 🐧 Become comfortable with Linux
-- 🛠️ Build simple tools
-- 🚀 Become autonomous in development
+* 🔐 Improve in cybersecurity
+* 🌐 Develop secure web applications
+* 🔌 Learn and build APIs
+* 💻 Improve development skills
+* 🌐 Understand networking and infrastructure
+* 🐧 Become comfortable with Linux
+* 🛠️ Build useful technical tools
+* 🚀 Become autonomous in development
